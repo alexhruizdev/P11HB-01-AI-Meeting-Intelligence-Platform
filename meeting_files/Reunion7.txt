@@ -1,0 +1,45 @@
+ACTA DE REUNIÓN No. 7
+
+Comité: Transformación Digital
+Fecha: 30/06/2026
+
+ASISTENTES
+- Ana Rodríguez
+- Carlos Pérez
+- Luisa Gómez
+- David Herrera
+
+DESARROLLO
+
+Se revisó el avance del proyecto AI Meeting Intelligence Platform.
+
+Ana confirmó que el dashboard ejecutivo ya muestra correctamente los indicadores generales del proyecto.
+
+Carlos informó que iniciará la construcción del motor de continuidad para identificar automáticamente tareas cumplidas y riesgos mitigados entre reuniones consecutivas.
+
+Luisa propuso implementar autenticación de usuarios para la siguiente fase del proyecto.
+
+David recomendó preparar la documentación técnica para GitHub incluyendo arquitectura, instalación y despliegue.
+
+DECISIONES
+
+1. Implementar el motor de continuidad.
+2. Preparar la documentación técnica del proyecto.
+3. Iniciar la fase de autenticación después del cierre del MVP.
+
+RIESGOS
+
+1. Posible incremento en el tiempo de procesamiento al comparar muchas reuniones históricas.
+2. Riesgo de inconsistencias si existen tareas duplicadas entre reuniones.
+
+TAREAS
+
+1. Carlos desarrollará el motor de continuidad antes de la próxima reunión. (ALTA)
+2. Ana documentará la arquitectura del sistema en GitHub. (MEDIA)
+3. Luisa diseñará el módulo de autenticación. (MEDIA)
+
+PRÓXIMA REUNIÓN
+
+- Revisar el funcionamiento del motor de continuidad.
+- Validar indicadores ejecutivos finales.
+- Planificar el Proyecto P11HB-02.

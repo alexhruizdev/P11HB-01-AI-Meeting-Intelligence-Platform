@@ -1,0 +1,23 @@
+Junta Directiva – Reunión Estratégica No. 2
+
+Buenos días.
+
+Se revisó el avance del proyecto de automatización comercial.
+
+Pedro presentó la arquitectura tecnológica propuesta para integrar el CRM con un sistema inteligente de generación automática de actas, seguimiento de compromisos y análisis de reuniones.
+
+Carlos presentó el análisis financiero indicando que el proyecto podría reducir aproximadamente un 35 % del tiempo administrativo de los comités.
+
+La Junta aprobó iniciar el desarrollo del proyecto AI Meeting Summarizer como primera fase del programa de transformación digital.
+
+También se aprobó documentar completamente el proyecto para convertirlo posteriormente en una solución comercial.
+
+Álex liderará la documentación técnica y la preparación del repositorio profesional en GitHub.
+
+Pedro iniciará la construcción del ambiente de pruebas.
+
+Como riesgos se identificaron la gestión del cambio organizacional, la adopción por parte de los usuarios y la necesidad de estandarizar el formato de las actas.
+
+En la próxima reunión se revisará el avance del desarrollo del sistema y los primeros resultados obtenidos.
+
+La próxima reunión quedó programada para el 15 de junio de 2026.

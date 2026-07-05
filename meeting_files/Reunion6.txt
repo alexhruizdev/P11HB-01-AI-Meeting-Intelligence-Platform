@@ -1,0 +1,23 @@
+Comité Tecnología – Reunión de Proyecto No. 1
+
+Buenos días.
+
+Se dio inicio formal al proyecto AI Meeting Summarizer aprobado por la Junta Directiva.
+
+El equipo revisó la arquitectura propuesta basada en n8n, Ollama, PostgreSQL, FastAPI y React.
+
+Se confirmó que la primera versión del sistema permitirá analizar reuniones, extraer decisiones, riesgos, tareas, compromisos y construir dashboards ejecutivos.
+
+También se acordó que la primera versión será publicada en GitHub como MVP profesional y posteriormente evolucionará hacia una plataforma empresarial.
+
+Álex documentará toda la arquitectura funcional antes del 20 de junio de 2026.
+
+Pedro configurará el ambiente Docker para desarrollo colaborativo.
+
+Carlos validará los indicadores ejecutivos que visualizará la alta dirección.
+
+Como riesgos se identificaron posibles cambios en los requerimientos funcionales, la calidad de las transcripciones y la necesidad de mantener trazabilidad entre reuniones.
+
+En la siguiente reunión se presentará la versión MVP completamente funcional.
+
+La próxima reunión quedó programada para el 22 de junio de 2026.

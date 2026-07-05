@@ -1,0 +1,46 @@
+# Python — entorno virtual y caché
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Variables de entorno
+.env
+.env.local
+.env.production
+
+# Node — dependencias
+node_modules/
+
+# Vite — build de producción
+frontend/dist/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos temporales del proyecto
+estructura.txt
+estructura-Final-01.txt
+test/
+
+# Documentos Word internos (ya están en .md)
+*.docx
+
+# Python cache adicional
+*.sqlite
+*.db
